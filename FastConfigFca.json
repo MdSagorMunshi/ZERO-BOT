@@ -1,0 +1,21 @@
+{
+	"Language": "en",
+	"PreKey": "",
+	"AutoUpdate": false,
+	"MainColor": "#9900FF",
+	"MainName": "[ Lee Siwoo ]",
+	"Uptime": true,
+	"Config": "default",
+	"Login2Fa": false,
+	"AutoLogin": false,
+	"BroadCast": false,
+	"AuthString": "",
+	"EncryptFeature": true,
+	"ResetDataLogin": false,
+	"AutoRestartMinutes": 0,
+	"HTML": {
+		"HTML": false,
+		"UserName": "Guest",
+		"MusicLink": "https://drive.google.com/uc?id=1zlAALlxk1TnO7jXtEP_O6yvemtzA2ukA&export=download"
+	}
+}
